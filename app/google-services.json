@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391116893254",
+    "project_id": "fotografpaylasmakotlin-8ca7c",
+    "storage_bucket": "fotografpaylasmakotlin-8ca7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391116893254:android:f3f5e241bf41059a07ae47",
+        "android_client_info": {
+          "package_name": "com.muhammed.fotografpaylasmakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391116893254-d0mcicr3maudqiaoamd9v8rotqg686ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2xyADS2iZdnv8jd9otrEjHP3jiDPwOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391116893254-d0mcicr3maudqiaoamd9v8rotqg686ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
